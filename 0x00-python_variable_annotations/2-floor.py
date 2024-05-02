@@ -5,4 +5,4 @@ n as argument and returns the floor of the float."""
 
 def floor(n: float) -> int:
     """this function return basic annotations - floor"""
-    return (n)
+    return int(n)
